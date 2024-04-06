@@ -4,8 +4,8 @@
 - Email: rijalgdev@gmail.com
 - Github: https://github.com/rijalghodi
 
-- Github Project:
-- Kaggle Project:
+- Github Project: https://github.com/rijalghodi/movie-review-sentiment-analysis
+- Kaggle Project: https://www.kaggle.com/code/zalcode/analisis-sentimen-pada-tweet-ulasan-film
 
 <img src="https://img.freepik.com/free-photo/view-3d-cinema-elements_23-2150720822.jpg" width=400>
 
